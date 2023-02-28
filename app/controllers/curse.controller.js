@@ -138,7 +138,7 @@ exports.deleteAll = (req, res) => {
 
 // Find all published Curses
 exports.findAllPublished = (req, res) => {
-    Curses.findAll({ where: { published: true } })
+    Curse.findAll({ where: { published: true } })
     .then(data => {
       res.send(data);
     })
