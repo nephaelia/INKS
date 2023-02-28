@@ -1,0 +1,1 @@
+Setting up another basic nodejs express sequelize REST API for 1. practice and 2. to eventually use with my discord bot projects, potentially. Based off of Bezkoder's tutorial: https://www.bezkoder.com/node-js-express-sequelize-mysql/ Thank you VERY much, this tutorial has been incredibly useful in so much of what I've been trying to do with my very first projects in coding.
